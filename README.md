@@ -9,7 +9,7 @@ This is a personal portfolio website showcasing the skills and work of **Shifu**
 - **Responsive Design**: The site adjusts well to different screen sizes for both desktop and mobile devices.
 
 ### Screenshots
-![Screenshot](screenshot.png.png)
+![Screenshot](screenshot.png)
 
 ### Technologies Used
 - HTML
